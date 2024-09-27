@@ -1,4 +1,4 @@
 # Timer
 
 ## stack
-- next.js
+- react
